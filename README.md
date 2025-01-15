@@ -9,6 +9,10 @@
   - **AWS Developer Associate**
 - 💡 Exploring innovative solutions for **cloud-native architectures** and **on-premise server management**.
 
+## 📫 How to Reach Me:
+- 🌐 https://www.linkedin.com/in/pranay-p-49933517b/  
+- 📧 Email: pypranay92@gmail.com  
+
 ## 💞️ Collaboration & Learning
 - 💻 Looking to collaborate on exciting DevOps and automation projects.
 - 🤝 Open to discussions on best practices in infrastructure as code, container orchestration, and more.
