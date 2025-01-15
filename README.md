@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p pranay
 - 👀 I’m interested in ...DevOps
-- 🌱 I’m currently learning ...in India 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on learning new stuff
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
