@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pranay (@pyprana)
 
 ## 👀 About Me:
-- 💼 **DevOps Engineer** with 8 years of experience.
+- 💼 **DevOps Engineer** with 6 years of experience.
 - 🚀 Passionate about **Kubernetes**, **Helm**, **Terraform**, and **CI/CD automation**.
 - 🌱 Currently diving into **AIOps/MLOps** and advancing my skills in **scripting deployments**.
 - 🎓 Certified:
